@@ -7,11 +7,11 @@ This is the official implementation of our *Computers & Chemical Engineering* 20
 ## Algorithms
 
 In this repository, you can find the Bayesian optimization algorithm for hyperparameter tuning with the objective of global optimality maximization for:
-- Feed-forward neural networks
-- Convolutional neural networks
+- Feed-forward neural networks (ANN_bayes.py)
+- Convolutional neural networks (CNN_bayes.py)
 
 ## Dataset
-In this repository, you can find the generated MIP instance (demand profiles) dataset for training and testing, as well as the validation demand profiles as seen in the paper.
+In this repository, you can find the generated MIP instance (demand profiles) dataset for training and testing (mip_demands.csv), as well as the validation demand profiles as seen in the paper (validation_demands.csv).
 
 
 ## Citation
