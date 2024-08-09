@@ -7,7 +7,8 @@ This is the official implementation of our *Computers & Chemical Engineering* 20
 
 ## Citation
 Please cite our paper if you use this code in your work.
-``` @article{triantafyllou2024deep,
+```
+@article{triantafyllou2024deep,
   title={Deep learning enhanced mixed integer optimization: Learning to reduce model dimensionality},
   author={Triantafyllou, Niki and Papathanasiou, Maria M},
   journal={Computers \& Chemical Engineering},
