@@ -11,7 +11,7 @@ In this repository, you can find the Bayesian optimization algorithm for hyperpa
 - Convolutional neural networks (CNN_bayes.py)
 
 ## Dataset
-In this repository, you can find the generated MIP instance (demand profiles) dataset for training and testing (mip_demands.csv), as well as the validation demand profiles as seen in the paper (validation_demands.csv).
+In this repository, you can find the generated MIP instance (demand profiles) dataset for training and testing (mip_demands.csv), as well as the validation demand profiles as seen in the paper (validation_demands.csv). The CAR T-cell therapy supply chain MIP model (https://www.nature.com/articles/s41598-022-21290-5) is solved for each instance and the MIP dataset is generated. The MIP instances are generated based on Algorithm 1 of the [paper](https://doi.org/10.1016/j.compchemeng.2024.108725).
 
 
 ## Citation
